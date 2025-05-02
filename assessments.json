@@ -1,0 +1,42 @@
+[
+    {
+      "name": "Automata - Fix (New)",
+      "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-fix-new/",
+      "duration": "40 minutes",
+      "remote_support": "Yes",
+      "adaptive_support": "Yes",
+      "test_type": "Coding"
+    },
+    {
+      "name": "Core Java (Entry Level) (New)",
+      "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-entry-level-new/",
+      "duration": "40 minutes",
+      "remote_support": "Yes",
+      "adaptive_support": "No",
+      "test_type": "Programming"
+    },
+    {
+      "name": "Java 8 (New)",
+      "url": "https://www.shl.com/solutions/products/product-catalog/view/java-8-new/",
+      "duration": "40 minutes",
+      "remote_support": "Yes",
+      "adaptive_support": "No",
+      "test_type": "Programming"
+    },
+    {
+      "name": "Agile Software Development",
+      "url": "https://www.shl.com/solutions/products/product-catalog/view/agile-software-development/",
+      "duration": "40 minutes",
+      "remote_support": "Yes",
+      "adaptive_support": "No",
+      "test_type": "Soft Skills"
+    },
+    {
+      "name": "Core Java (Advanced Level) (New)",
+      "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-advanced-level-new/",
+      "duration": "40 minutes",
+      "remote_support": "Yes",
+      "adaptive_support": "Yes",
+      "test_type": "Programming"
+    }
+  ]
